@@ -18,5 +18,5 @@ services:
             PORT: 4000
         ports:
             - "4000:4000"
-        volumes:
-            - ./api:/home/api
+        #volumes:
+            #- ./api:/home/api
